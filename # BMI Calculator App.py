@@ -18,6 +18,7 @@ def classify_bmi(bmi):
         return "Overweight"
     else:
         return "Obese"
+    
 
 def main():
     """Main function to run the BMI calculator app."""
